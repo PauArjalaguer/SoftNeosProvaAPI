@@ -1,4 +1,3 @@
-<!-- resources/views/posts/index.blade.php -->
 <!DOCTYPE html>
 <html>
 <head>

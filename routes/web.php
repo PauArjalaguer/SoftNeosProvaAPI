@@ -16,4 +16,4 @@ Route::get('/', function () {
 });
 
 Route::resource('posts', 'PostController');
-Route::get('clone_post/{id}','PostController@clone_post');
+
