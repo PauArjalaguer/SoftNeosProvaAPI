@@ -20,6 +20,7 @@
 // trec comentaris 
 // elimino una crida a aux_post_calc a l' update que no te cap sentit
 // elimino la funció duplicatePost, que no només s' aplica enlloc sinó que no està ni acabada
+// a les routes també hi havia una funció de duplicar posts
 
 //En el model s' elimina el nom de la definició del nom de la taula, ja que es la que té per defecte i es redundant
 // Es canvia el nom a aux_post_calc a un nom més concret. getSummaryAttributeCalculation que indica que fa i ho relaciona amb la funció que el crida 
